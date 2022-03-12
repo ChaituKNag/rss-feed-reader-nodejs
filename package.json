@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
     "rss-parser": "^3.12.0",
+    "xml2js": "^0.4.23",
     "yargs": "^17.3.1"
   }
 }
